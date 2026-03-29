@@ -31,3 +31,5 @@ migrate_working_dir/
 /coverage/
 
 
+config.bat
+node_modules
